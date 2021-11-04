@@ -2,6 +2,7 @@
 
 ## Prerequies
 
+- FFmpeg
 - Directory for the songs
 - All modules in [requirements.txt](./requirements.txt)
 
