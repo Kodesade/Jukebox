@@ -1,7 +1,8 @@
 # [Jukebox.py](./jukebox.py)
 
-## Prerequies
+## Requirements
 
+- Python3
 - FFmpeg
 - Directory for the songs
 - All modules in [requirements.txt](./requirements.txt)
